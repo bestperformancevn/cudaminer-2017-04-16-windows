@@ -1,0 +1,1 @@
+# cudaminer-2017-04-16-windows
